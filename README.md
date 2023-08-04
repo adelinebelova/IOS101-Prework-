@@ -17,13 +17,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/gvNqBA1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="https://giphy.com/embed/cY08mBuo9DY08T41os" width="480" height="292" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cY08mBuo9DY08T41os">via GIPHY</a></p>
 
 GIF created with **macOS Built-in Screen Recorder** and **Convertio**  
 
 
 ## App Brainstorming (Step 4)
-###List of my favorite applications and why: 
+**List of my favorite applications and why:** 
 - [ ] Etsy 
 - Aesthetically pleasing color and font palette throughout the app
 - "Updates" section to notify me on changes to my favorite items 
@@ -44,7 +44,7 @@ GIF created with **macOS Built-in Screen Recorder** and **Convertio**
 - Neatly scales pages created on a computer to smaller phone/tablet screens 
 - Easy to navigate sections 
 
-###App idea: 
+**App idea:**
 
 I am someone who is very interested in cooking and being in the kitchen. Although apps like Notion help me to organize recipe ideas and grocery lists, I want an app that will help me to automate this process. This app's main goal is to help users create lists of their existing pantry/fridge items and show them what recipes they are able to make with the ingredients they currently have. Users would enter their favorite recipes along with their initial pantry/fridge stock. They are able to create grocery lists of things to buy and add it to their stock once purchased. If a recipe is marked as cooked, the app will automatically deduct the ingredients from their stock. The UX/UI would be inspired by websites like *graza.co*, with their pleasing color palette and quirky font/text-box choices. 
 

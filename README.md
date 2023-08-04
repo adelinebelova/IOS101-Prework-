@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/cY08mBuo9DY08T41os" width="480" height="292" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cY08mBuo9DY08T41os">via GIPHY</a></p>
+![](https://i.imgur.com/gvNqBA1.gif)
 
 GIF created with **macOS Built-in Screen Recorder** and **Convertio**  
 

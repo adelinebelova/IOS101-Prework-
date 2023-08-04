@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![]([https://i.imgur.com/gvNqBA1.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ycGZ0azZ0cTl1eWtsdm9pM2N6anowNW82ZGZsOHJ2c3dzYm1zMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cY08mBuo9DY08T41os/giphy.gif))
+![](https://i.imgur.com/gvNqBA1.gif)
 
 GIF created with **macOS Built-in Screen Recorder** and **Convertio**  
 

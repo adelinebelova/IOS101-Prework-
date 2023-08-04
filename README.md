@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/gvNqBA1.gif)
+![](IOS101-Prework.gif)
 
 GIF created with **macOS Built-in Screen Recorder** and **Convertio**  
 
